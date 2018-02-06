@@ -7,12 +7,3 @@ n08
 s
 v
 d
-vv55
-back
-0
-z
-cc
-v
-vs
-ddddf
-c
